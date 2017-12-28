@@ -1,0 +1,21 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "hola mundo gentile de escritorio",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "keywords": [
+    "electron",
+    "desktop",
+    "hola",
+    "mundo",
+    "gentile"
+  ],
+  "author": "Ricardo Ledesma",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.7.10"
+  }
+}
